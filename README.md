@@ -28,9 +28,9 @@ This project consists of two Python scripts that implement TCP communication usi
 
 2. **Usage:**
    ```bash
-   python server.py
+   python server_crc.py
    then
-   python client.y
+   python client_crc.py
 just remember run server first then client.
 
 
